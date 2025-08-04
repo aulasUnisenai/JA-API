@@ -26,6 +26,10 @@ Confira alguns tutorias sobre como redigir **artigos científicos**:
 - [Como escrever um artigo científico passo-a-passo](https://www.periodicos.capes.gov.br/?option=com_pnews&component=Clipping&view=pnewsclipping&cid=674&mn=0)
 - [Taxonomia de Bloom](https://apps.univesp.br/taxonomia-de-bloom)
 
+## 🔗 Ferramentas de pesquisa
+
+- [Mecanismo Online para Referências](https://more.ufsc.br)
+- [Google Trends](https://trends.google.com.br/trends)
 
 ## 🔗 Livros de apoio
 
