@@ -10,7 +10,12 @@ Este repositório será o espaço central para disponibilizar materiais, links d
 
 - [O que é uma API (AWS)](https://aws.amazon.com/pt/what-is/api)  
 - [O que é uma API? (IBM)](https://www.ibm.com/br-pt/think/topics/api)  
-- [O que é uma API? (Red Hat)](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces)  
+- [O que é uma API? (Red Hat)](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces)
+- [O que é uma API REST?](https://www.ibm.com/br-pt/think/topics/rest-apis)
+- [Qual é a diferença entre GraphQL e REST?](https://aws.amazon.com/pt/compare/the-difference-between-graphql-and-rest)
+- [GraphQL vs. REST](https://blog.postman.com/graphql-vs-rest)
+- [What are HTTP methods?](https://blog.postman.com/what-are-http-methods)
+- [What is JSON?](https://blog.postman.com/what-is-json)
 
 ## 🔗 Escrita científica
 
