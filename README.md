@@ -18,4 +18,4 @@ Confira os seguintes materiais introdutórios que explicam o que é uma **API**:
 
 Confira alguns tutorias sobre como redigir **artigos científicos**:
 
--[Exemplo de artigo IMRaD: Um guia para entender a redação científica] (https://mindthegraph.com/blog/pt/imrad-paper-example)
+- [Exemplo de artigo IMRaD: Um guia para entender a redação científica] (https://mindthegraph.com/blog/pt/imrad-paper-example)
