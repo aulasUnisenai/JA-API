@@ -5,6 +5,7 @@ Este repositório será o espaço central para disponibilizar materiais, links d
 ## 🔗 Empresa parceira
 
 - [MetaBee](https://metabee.tec.br)
+- [Desafio proposto](https://www.youtube.com/watch?v=4uCTlCToaLA)
 
 ## 🔗 Introdução às APIs
 
